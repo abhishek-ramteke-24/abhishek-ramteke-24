@@ -1,4 +1,4 @@
-![image](https://github.com/abhishek-ramteke-24/abhishek-ramteke-24/assets/155245589/ce011123-20c8-4ab7-bdbd-1adcab0ba91e)# Hello, I'm Abhishek Ramteke! 👋
+# Hello, I'm Abhishek Ramteke! 👋
 
 I'm a passionate Software Engineer with expertise in Dotnet, C#. 
 
